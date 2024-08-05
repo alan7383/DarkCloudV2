@@ -1,6 +1,6 @@
 # DarkCloud: Soundcloud Night Mode
 
-**DarkCloud** is a browser extension that applies a dark theme to Soundcloud.com for a better nighttime experience.
+**DarkCloudV2** is a browser extension that applies a dark theme to Soundcloud.com for a better nighttime experience.
 
 This project is a fork of the [original project by IEVEVO](https://github.com/IEVEVO/darkcloud). I have resolved a few issues and made some improvements.
 
