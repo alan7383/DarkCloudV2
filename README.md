@@ -24,9 +24,9 @@ This project is a fork of the [original project by IEVEVO](https://github.com/IE
 
 4. Enable **Developer mode** in the top-right corner of the Extensions page.
 
-   ![Developer Mode](https://github.com/user-attachments/assets/c96129a3-b6c3-4b88-b25b-79af0f18b134)
-
 5. Click on **Load unpacked** and select the extracted `darkcloud-master` folder.
+
+   ![Developer Mode](https://github.com/user-attachments/assets/c96129a3-b6c3-4b88-b25b-79af0f18b134)
 
    ![Load Unpacked](https://github.com/user-attachments/assets/74411e0e-19ee-4435-95a7-f268afa95231)
 
