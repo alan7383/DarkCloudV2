@@ -34,17 +34,7 @@ This project is a fork of the [original project by IEVEVO](https://github.com/IE
 
 ### For Mozilla Firefox
 
-1. Download the ZIP file of the extension from [the releases page](https://github.com/alan7383/darkcloud/releases).
-
-2. Extract the ZIP file using a decompression tool like [WinRAR](https://www.win-rar.com/start.html?&L=10).
-
-3. Open Mozilla Firefox and go to the menu → Add-ons and Themes.
-
-4. Click on the gear icon at the top right and select "Install Add-on From File".
-
-5. Select the `.xpi` file extracted from the ZIP file and follow the on-screen instructions to complete the installation.
-
-6. The extension is now installed and ready to use in Firefox.
+Coming Soon!
 
 ## Configuration
 
