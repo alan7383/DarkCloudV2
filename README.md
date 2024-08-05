@@ -4,9 +4,17 @@
 
 This project is a fork of the [original created by IEVEVO](https://github.com/IEVEVO/darkcloud). I've resolved a few issues and added improvements.
 
-Start by clicking on release and downloading "darkcloud-master.zip"
+## Prerequisites
 
-![image](https://github.com/user-attachments/assets/ee6ffa36-fa90-414d-8a86-d349ed1fc2ac)
+- **Compatible Browser**: Google Chrome or Mozilla Firefox.
+
+## Installation
+
+### For Google Chrome
+
+1. Download the ZIP file of the extension from [the releases page](https://github.com/alan7383/darkcloud/releases).
+
+   ![Download](https://github.com/user-attachments/assets/ee6ffa36-fa90-414d-8a86-d349ed1fc2ac)
 
 ![image](https://github.com/user-attachments/assets/c7048576-83c8-4464-9152-a390975d922f)
 
