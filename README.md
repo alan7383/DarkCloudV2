@@ -16,7 +16,7 @@ This project is a fork of the [original project by IEVEVO](https://github.com/IE
 
    ![Download](https://github.com/user-attachments/assets/ee6ffa36-fa90-414d-8a86-d349ed1fc2ac)
 
-   ![Extensions](https://github.com/user-attachments/assets/c7048576-83c8-4464-9152-a390975d922f)
+   ![Extensions](https://github.com/user-attachments/assets/73e621c6-6621-4920-a31e-2e8f635010a3)
 
 2. Extract the ZIP file using a decompression tool like [WinRAR](https://www.win-rar.com/start.html?&L=10).
 
