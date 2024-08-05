@@ -3,7 +3,7 @@ Browser extension that changes soundcloud.com to a dark theme.
 
 updated for manifest V3, **and comments issue fixed**
 
-Extension developed by IEVEVO, but slightly modified by me
+It's a fork of the original project by IEVEVO, and I've resolved a few issues.
 
 # How To Install?
 
