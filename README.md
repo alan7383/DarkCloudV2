@@ -16,11 +16,11 @@ This project is a fork of the [original project by IEVEVO](https://github.com/IE
 
    ![Download](https://github.com/user-attachments/assets/ee6ffa36-fa90-414d-8a86-d349ed1fc2ac)
 
+   ![Extensions](https://github.com/user-attachments/assets/c7048576-83c8-4464-9152-a390975d922f)
+
 2. Extract the ZIP file using a decompression tool like [WinRAR](https://www.win-rar.com/start.html?&L=10).
 
 3. Open Google Chrome, click on the three vertical dots in the top-right corner, and go to **Extensions**.
-
-   ![Extensions](https://github.com/user-attachments/assets/c7048576-83c8-4464-9152-a390975d922f)
 
 4. Enable **Developer mode** in the top-right corner of the Extensions page.
 
