@@ -48,4 +48,4 @@ No additional configuration is necessary. The extension will automatically apply
 ## Contact and Support
 
 - **Report a problem**: Open an issue on [our GitHub Issues page](https://github.com/alan7383/darkcloud/issues).
-- **General questions**: Send an email to [your.email@example.com](mailto:alanmussot@gmail.com).
+- **General questions**: Send an email to [alanmussot@gmail.com](mailto:alanmussot@gmail.com).
