@@ -72,7 +72,7 @@ Contributions are welcome! To contribute:
 1. Clone the repository: 
 
    ```bash
-   git clone https://github.com/alan7383/darkcloud.git
+   git clone https://github.com/alan7383/darkcloudv2.git
    ```
 
 2. Create a branch for your changes: 
