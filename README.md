@@ -1,12 +1,22 @@
+```markdown
 # DarkCloud: Soundcloud Night Mode
 
 **DarkCloudV2** is a browser extension that applies a dark theme to Soundcloud.com for a better nighttime experience.
 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/alan7383/darkcloud)
+![GitHub](https://img.shields.io/github/license/alan7383/darkcloud)
+
 This project is a fork of the [original project by IEVEVO](https://github.com/IEVEVO/darkcloud). I have resolved a few issues and made some improvements.
+
+## Features
+
+- Comfortable dark theme for easy viewing at night.
+- Compatible with the latest versions of Chrome and Firefox.
+- Easy to install and use without additional configuration.
 
 ## Prerequisites
 
-- **Compatible Browser**: Google Chrome or Mozilla Firefox.
+- **Compatible Browsers**: Google Chrome or Mozilla Firefox.
 
 ## Installation
 
@@ -15,8 +25,6 @@ This project is a fork of the [original project by IEVEVO](https://github.com/IE
 1. Download the ZIP file of the extension from [the releases page](https://github.com/alan7383/darkcloud/releases).
 
    ![Download](https://github.com/user-attachments/assets/ee6ffa36-fa90-414d-8a86-d349ed1fc2ac)
-
-   ![Extensions](https://github.com/user-attachments/assets/73e621c6-6621-4920-a31e-2e8f635010a3)
 
 2. Extract the ZIP file using a decompression tool like [WinRAR](https://www.win-rar.com/start.html?&L=10).
 
@@ -45,7 +53,24 @@ No additional configuration is necessary. The extension will automatically apply
 - **The extension does not appear**: Check that the extension is enabled on the Extensions page and that you selected the correct folder.
 - **Display issues**: Ensure your browser is up to date. Restart the browser if necessary.
 
+## Contribution
+
+Contributions are welcome! To contribute:
+
+1. Clone the repository: `git clone https://github.com/alan7383/darkcloud.git`
+2. Create a branch for your changes: `git checkout -b new-feature`
+3. Make your changes and commit: `git commit -m 'Add new feature'`
+4. Push to the branch: `git push origin new-feature`
+5. Create a pull request on GitHub.
+
 ## Contact and Support
 
 - **Report a problem**: Open an issue on [our GitHub Issues page](https://github.com/alan7383/darkcloud/issues).
 - **General questions**: Send an email to [alanmussot@gmail.com](mailto:alanmussot@gmail.com).
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+```
+
+These changes should make your repository page more organized, professional, and engaging for potential users.
