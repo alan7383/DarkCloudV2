@@ -1,17 +1,30 @@
 # DarkCloud: Soundcloud Night Mode
 
-**DarkCloudV2** is a browser extension that applies a dark theme to Soundcloud.com for a better nighttime experience.
+**DarkCloudV2** is a browser extension that brings a sleek dark theme to Soundcloud.com, making nighttime listening easier on the eyes.
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/alan7383/darkcloud)
 ![GitHub](https://img.shields.io/github/license/alan7383/darkcloud)
 
-This project is a fork of the [original project by IEVEVO](https://github.com/IEVEVO/darkcloud). I have resolved a few issues and made some improvements.
+This project is a fork of the [original project by IEVEVO](https://github.com/IEVEVO/darkcloud), with several resolved issues and improvements.
+
+## Table of Contents
+
+- [Features](#features)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+  - [For Google Chrome](#for-google-chrome)
+  - [For Mozilla Firefox](#for-mozilla-firefox)
+- [Configuration](#configuration)
+- [Troubleshooting](#troubleshooting)
+- [Contribution](#contribution)
+- [Contact and Support](#contact-and-support)
+- [License](#license)
 
 ## Features
 
-- Comfortable dark theme for easy viewing at night.
+- Comfortable dark theme for easy nighttime viewing.
 - Compatible with the latest versions of Chrome and Firefox.
-- Easy to install and use without additional configuration.
+- Simple installation and usage with no extra configuration required.
 
 ## Prerequisites
 
@@ -21,11 +34,11 @@ This project is a fork of the [original project by IEVEVO](https://github.com/IE
 
 ### For Google Chrome
 
-1. Download the ZIP file of the extension from [the releases page](https://github.com/alan7383/darkcloud/releases).
+1. Download the ZIP file of the extension from the [releases page](https://github.com/alan7383/darkcloud/releases).
 
    ![Download](https://github.com/user-attachments/assets/ee6ffa36-fa90-414d-8a86-d349ed1fc2ac)
 
-2. Extract the ZIP file using a decompression tool like [WinRAR](https://www.win-rar.com/start.html?&L=10).
+2. Extract the ZIP file using a tool like [WinRAR](https://www.win-rar.com/start.html?&L=10).
 
 3. Open Google Chrome, click on the three vertical dots in the top-right corner, and go to **Extensions**.
 
@@ -41,31 +54,51 @@ This project is a fork of the [original project by IEVEVO](https://github.com/IE
 
 ### For Mozilla Firefox
 
-**Now available on the Firefox Add-ons store!** Simply download it here: [Firefox](https://addons.mozilla.org/fr/android/addon/darkcloudv2/)
+**Available on the Firefox Add-ons store!** Download it here: [DarkCloudV2 for Firefox](https://addons.mozilla.org/fr/android/addon/darkcloudv2/)
 
 ## Configuration
 
-No additional configuration is necessary. The extension will automatically apply a dark theme to Soundcloud.
+No additional configuration is necessary. The extension automatically applies a dark theme to Soundcloud.
 
 ## Troubleshooting
 
-- **The extension does not appear**: Check that the extension is enabled on the Extensions page and that you selected the correct folder.
-- **Display issues**: Ensure your browser is up to date. Restart the browser if necessary.
+- **The extension does not appear**: Ensure the extension is enabled on the Extensions page and that you selected the correct folder.
+- **Display issues**: Make sure your browser is up to date. Restart the browser if necessary.
 
 ## Contribution
 
 Contributions are welcome! To contribute:
 
-1. Clone the repository: `git clone https://github.com/alan7383/darkcloud.git`
-2. Create a branch for your changes: `git checkout -b new-feature`
-3. Make your changes and commit: `git commit -m 'Add new feature'`
-4. Push to the branch: `git push origin new-feature`
+1. Clone the repository: 
+
+   ```bash
+   git clone https://github.com/alan7383/darkcloud.git
+   ```
+
+2. Create a branch for your changes: 
+
+   ```bash
+   git checkout -b new-feature
+   ```
+
+3. Make your changes and commit: 
+
+   ```bash
+   git commit -m 'Add new feature'
+   ```
+
+4. Push to the branch: 
+
+   ```bash
+   git push origin new-feature
+   ```
+
 5. Create a pull request on GitHub.
 
 ## Contact and Support
 
-- **Report a problem**: Open an issue on [our GitHub Issues page](https://github.com/alan7383/darkcloud/issues).
-- **General questions**: Send an email to [alanmussot@gmail.com](mailto:alanmussot@gmail.com).
+- **Report a problem**: Open an issue on our [GitHub Issues page](https://github.com/alan7383/darkcloud/issues).
+- **General questions**: Email [alanmussot@gmail.com](mailto:alanmussot@gmail.com).
 
 ## License
 
