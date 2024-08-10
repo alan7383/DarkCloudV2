@@ -70,6 +70,3 @@ Contributions are welcome! To contribute:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-These changes should make your repository page more organized, professional, and engaging for potential users.
