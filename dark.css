@@ -786,3 +786,6 @@ a.sc-link-dark:hover {
   color: #fff !important;
 }
 
+.modal__closeButton {
+	filter: invert(100%) !important;
+}
