@@ -9,11 +9,11 @@ This project is a fork of the [original project by IEVEVO](https://github.com/IE
 
 ## Objectives:
 
-- Make the insights page dark mode.
-- Make the report button dark mode.
-- Make the second mini-stat visible.
-- Change the hover effect from white to black for a more pleasant experience.
-- Make the like button more attractive (of comments).
+- Make the insights page dark mode. ❌
+- Make the report button dark mode. ❌
+- Make the second mini-stat visible. ❌
+- Change the hover effect from white to black for a more pleasant experience. ❌
+- Make the like button more attractive (of comments). ❌
 
 ## Table of Contents
 
