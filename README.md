@@ -7,6 +7,13 @@
 
 This project is a fork of the [original project by IEVEVO](https://github.com/IEVEVO/darkcloud), with several resolved issues and improvements.
 
+## Objectives:
+
+- Make the insights page dark mode.
+- Make the report button dark mode.
+- Make the second mini-stat visible.
+- Change the hover effect from white to black for a more pleasant experience.
+
 ## Table of Contents
 
 - [Features](#features)
