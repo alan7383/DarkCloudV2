@@ -24,7 +24,6 @@ This project is a fork of the [original project by IEVEVO](https://github.com/IE
   - [For Mozilla Firefox](#for-mozilla-firefox)
 - [Configuration](#configuration)
 - [Troubleshooting](#troubleshooting)
-- [Contribution](#contribution)
 - [Contact and Support](#contact-and-support)
 - [License](#license)
 
@@ -72,36 +71,6 @@ No additional configuration is necessary. The extension automatically applies a 
 
 - **The extension does not appear**: Ensure the extension is enabled on the Extensions page and that you selected the correct folder.
 - **Display issues**: Make sure your browser is up to date. Restart the browser if necessary.
-
-## Contribution
-
-Contributions are welcome! To contribute:
-
-1. Clone the repository: 
-
-   ```bash
-   git clone https://github.com/alan7383/darkcloudv2.git
-   ```
-
-2. Create a branch for your changes: 
-
-   ```bash
-   git checkout -b new-feature
-   ```
-
-3. Make your changes and commit: 
-
-   ```bash
-   git commit -m 'Add new feature'
-   ```
-
-4. Push to the branch: 
-
-   ```bash
-   git push origin new-feature
-   ```
-
-5. Create a pull request on GitHub.
 
 ## Contact and Support
 
