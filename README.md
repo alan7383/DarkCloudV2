@@ -71,4 +71,3 @@ No additional configuration is necessary. The extension automatically applies a 
 ## Contact and Support
 
 - **Report a problem**: Open an issue on our [GitHub Issues page](https://github.com/alan7383/darkcloud/issues).
-- **General questions**: Email [alanmussot@gmail.com](mailto:alanmussot@gmail.com).
