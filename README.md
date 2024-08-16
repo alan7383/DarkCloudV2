@@ -2,9 +2,6 @@
 
 **DarkCloudV2** is a browser extension that brings a sleek dark theme to Soundcloud.com, making nighttime listening easier on the eyes.
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/alan7383/darkcloud)
-![GitHub](https://img.shields.io/github/license/alan7383/darkcloud)
-
 This project is a fork of the [original project by IEVEVO](https://github.com/IEVEVO/darkcloud), with several resolved issues and improvements.
 
 ## Objectives:
