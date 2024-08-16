@@ -22,7 +22,6 @@ This project is a fork of the [original project by IEVEVO](https://github.com/IE
 - [Configuration](#configuration)
 - [Troubleshooting](#troubleshooting)
 - [Contact and Support](#contact-and-support)
-- [License](#license)
 
 ## Features
 
@@ -73,7 +72,3 @@ No additional configuration is necessary. The extension automatically applies a 
 
 - **Report a problem**: Open an issue on our [GitHub Issues page](https://github.com/alan7383/darkcloud/issues).
 - **General questions**: Email [alanmussot@gmail.com](mailto:alanmussot@gmail.com).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
