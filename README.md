@@ -57,7 +57,7 @@ This project is a fork of the [original project by IEVEVO](https://github.com/IE
 
 ### For Mozilla Firefox
 
-**Available on the Firefox Add-ons store!** Download it here: [DarkCloudV2 for Firefox](https://addons.mozilla.org/fr/android/addon/darkcloudv2/)
+**Available on the Firefox Add-ons store!** Download it here: [DarkCloudV2 for Firefox](https://addons.mozilla.org/fr/firefox/addon/darkcloudv2/)
 
 ## Configuration
 
